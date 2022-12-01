@@ -1,3 +1,3 @@
 # Desafios_HTML
 
-Desafios da Rocketseat sobre HTML.
+Aceito o desafio e feito usando somente HTML e poucas usando CSS interno para mexer no texto.
